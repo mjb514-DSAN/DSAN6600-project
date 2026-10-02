@@ -1,4 +1,4 @@
-# DSAN6600 Project: Test whether earnings call transcripts predict post earnings stock volatility beyond the company's history
+# Test whether earnings call transcripts predict post earnings stock volatility beyond the company's history
 
 ## Summary
 In this project, I want to expand on the research from "Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts" by Ding Yu, Zhuo Liu, Hangfeng He. Their research used text embedding models to predict future volatility of the company's stock. They concluded that transcript based models do not perform better than simply using the company's average past volatility. Additionally, they found that the transcript embeddings mainly encode which company is speaking.
@@ -12,7 +12,7 @@ In the future, I will train an MLP head on the embeddings to see if, when compan
 - Write up: [check-in-1.md](check-in-1.md)
 - Data Processing and EDA: [notebooks/EDA.ipynb](notebooks/EDA.ipynb)
 - Data access: [DATA.md](DATA.md)
-- Progress video: [link](...)
+- Progress video: [Video](https://drive.google.com/file/d/1LsKrESfZDzSLU8VF6uK9L_SBvAyjoIJX/view?usp=sharing)
 
 ## Reproducing Results
 1. Download the data into `data/` following [DATA.md](DATA.md)
