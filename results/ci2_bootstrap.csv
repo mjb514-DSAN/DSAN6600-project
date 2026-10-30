@@ -1,0 +1,5 @@
+input,test_mse,gain_vs_zero,ci_low,ci_high,spearman
+real,0.5266,-0.0011,-0.006,0.0039,0.0021
+random_ticker,0.5323,-0.0068,-0.0133,-0.0006,-0.095
+random_all,0.5246,0.0008,-0.0038,0.0055,0.0614
+identity_removed,0.5262,-0.0008,-0.0051,0.0034,0.0013
